@@ -3,3 +3,9 @@
 
 # cholula
 An npm package to add some Spice to your projects.
+
+var cholula = require("cholula")
+
+const vic = cholula("tamal");
+
+return vic;
